@@ -22,7 +22,8 @@ The project is designed to be:
   - Cover image (Local Storage)
   - Bio
 - User roles:
-  - USER
+  - CUSTOMER
+  - AGENT
   - ADMIN
 - Secure logout
 - Token-based authentication
